@@ -27,3 +27,7 @@ build/Release
 node_modules
 
 ./test
+resized/
+
+# Ignore actual batchUpload.sh
+batchUpload.sh
